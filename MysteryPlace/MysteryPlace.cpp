@@ -1,9 +1,8 @@
-// MysteryPlace.cpp : ¶¨Òå¿ØÖÆÌ¨Ó¦ÓÃ³ÌĞòµÄÈë¿Úµã¡£
-/*ÊµÏÖÃÔ¹¬µÄ±éÀú*/
+// MysteryPlace.cpp : å®šä¹‰æ§åˆ¶å°åº”ç”¨ç¨‹åºçš„å…¥å£ç‚¹ã€‚
+/*å®ç°è¿·å®«çš„éå†*/
 #include "stdafx.h"
 #include <iostream>
 #include <vector>
-#include <cstdlib>
 using namespace std;
 
 int m=5;
